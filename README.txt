@@ -1,11 +1,11 @@
-Write a Java program that checks if two arrays contain the same elements
+//Write a Java program that checks if two arrays contain the same elements. Please take a look at the test program to understand the expected results.
 
 import java.util.Arrays;
 import org.junit.Test;
 import org.junit.Assert;
 
 public class Solution {
-  boolean sameElement(Integer[] array1, Integer[] array2) {
+  boolean sameElements(Integer[] array1, Integer[] array2) {
     //TODO: Implement your solution here
   }
 
